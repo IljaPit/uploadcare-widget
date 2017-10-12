@@ -23,7 +23,7 @@ uploadcare.namespace 'locale.translations', (ns) ->
     draghere: 'Tiri fail siia'
     file:
       one: '%1 fail'
-      other: '%1 failid'
+      other: '%1 faili'
     buttons:
       cancel: 'Tühista'
       remove: 'Kustuta'
